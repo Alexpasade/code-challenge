@@ -7,8 +7,12 @@ const Footer = () => (
     </div>
 )
 
+<<<<<<< HEAD
 export default Footer;
 
 const Header = () => {
     
 }
+=======
+export default Footer;
+>>>>>>> 0ce30b7fc8c483d993cb5aa6dece5b6032e42f6e
