@@ -6,11 +6,13 @@
 }
 
 .header__title {
+    text-align: center;
     font-size: 3.2rem;
     margin: 0;
 }
 
 .header__subtitle { 
+    text-align: center;
     color: #a5afd7;
     font-size: 1.6rem;
     font-weight: 500;
