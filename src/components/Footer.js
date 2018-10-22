@@ -12,3 +12,7 @@ export default Footer;
 const Header = () => {
     
 }
+
+const Prueba = () => {
+
+}
