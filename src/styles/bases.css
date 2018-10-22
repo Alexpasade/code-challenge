@@ -30,8 +30,11 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+<<<<<<< HEAD
 	background: #333745;
 	color: white;
+=======
+>>>>>>> 0ce30b7fc8c483d993cb5aa6dece5b6032e42f6e
 }
 ol, ul {
 	list-style: none;

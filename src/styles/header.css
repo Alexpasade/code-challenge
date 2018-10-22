@@ -6,13 +6,19 @@
 }
 
 .header__title {
+<<<<<<< HEAD
     text-align: center;
+=======
+>>>>>>> 0ce30b7fc8c483d993cb5aa6dece5b6032e42f6e
     font-size: 3.2rem;
     margin: 0;
 }
 
 .header__subtitle { 
+<<<<<<< HEAD
     text-align: center;
+=======
+>>>>>>> 0ce30b7fc8c483d993cb5aa6dece5b6032e42f6e
     color: #a5afd7;
     font-size: 1.6rem;
     font-weight: 500;

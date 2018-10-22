@@ -5,6 +5,9 @@ import {BrowserRouter, Route} from 'react-router-dom'
 import Header from './components/Header';
 import Footer from './components/Footer';
 import './styles/bases.css';
+import Header from './components/Header';
+import './styles/bases.css'
+import Footer from './components/Footer';
 
 class App extends Component {
   // definition
@@ -27,11 +30,11 @@ class App extends Component {
     return (
       <div className="App">
         <Header/>
+        <h2>Billin code challenge</h2>
         <pre>{JSON.stringify(this.state.articles, null, 2)}</pre>
         <Footer/>
       </div>
     );
   }
 }
-
 export default App;

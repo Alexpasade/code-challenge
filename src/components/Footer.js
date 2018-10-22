@@ -6,13 +6,16 @@ const Footer = () => (
         <h3>Alejandro Gómez Pasadé. Copyright 2018</h3>
     </div>
 )
-
 export default Footer;
 
 const Header = () => {
     
 }
+<<<<<<< HEAD
 
 const Prueba = () => {
 
 }
+=======
+export default Footer;
+>>>>>>> prueba1
